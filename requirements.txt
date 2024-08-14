@@ -1,0 +1,9 @@
+eli5
+requests
+tabulate
+colorama>=0.3.8
+future
+simplejson
+scikit-learn
+yellowbrick
+distutils
